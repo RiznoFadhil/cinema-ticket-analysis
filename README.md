@@ -66,8 +66,6 @@ Proyek ini adalah simulasi analisis end-to-end untuk industri ticketing & event,
 └── README.md
 ```
 
-> Catatan: sesuaikan nama file di atas dengan nama file SQL yang sebenarnya kamu unggah, kalau berbeda dari penamaan ini.
-
 ## 🛠️ Tools & Teknologi
 
 - **SQL** — Google BigQuery (Standard SQL)
